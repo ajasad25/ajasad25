@@ -150,11 +150,6 @@ Real-time analytics, data visualization, and business intelligence
 
 ---
 
-## 🏆 Featured Projects
-
-
----
-
 ## 🎯 Current Focus
 
 - 🌱 Deepening expertise in **system design** and **scalable architecture**
