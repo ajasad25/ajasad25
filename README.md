@@ -169,19 +169,6 @@ Real-time analytics, data visualization, and business intelligence
 
 ---
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-  
-![Galaxy Brain](https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png)
-![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
