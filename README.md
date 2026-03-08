@@ -112,7 +112,10 @@ Real-time analytics, data visualization, and business intelligence
 | **Code Quality** | Clean Architecture & Best Practices |
 
 </div>
-## 🛠️ Development Approach
+
+---
+
+### 🛠️ Development Approach
 
 <table>
 <tr>
