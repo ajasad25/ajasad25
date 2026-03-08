@@ -77,15 +77,27 @@ When I'm not coding, I'm probably exploring new tech, mentoring fellow developer
 
 <table>
 <tr>
-
-### 💰 FinTech Apps
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/money-bag.png" width="80"/><br/>
+<h3>💰 FinTech Apps</h3>
 Financial modeling, portfolio management, and enterprise payment systems
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="80"/>
-
-### 📊 Dashboards
+<img src="https://img.icons8.com/color/96/shopping-cart.png" width="80"/><br/>
+<h3>🛒 E-Commerce</h3>
+B2B/B2C platforms with analytics, and payment integration
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/combo-chart.png" width="80"/><br/>
+<h3>📊 Dashboards</h3>
 Real-time analytics, data visualization, and business intelligence
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/code.png" width="80"/><br/>
+<h3>🌐 Web & App Dev</h3>
+Responsive web apps and cross-platform mobile applications
 </td>
 </tr>
 </table>
@@ -108,11 +120,12 @@ Real-time analytics, data visualization, and business intelligence
 
 ### 🛠️ Development Approach
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Excellence
+## 🎨 Frontend Excellence
 - Component-based architecture
 - Reusable design systems
 - Performance optimization
@@ -122,8 +135,9 @@ Real-time analytics, data visualization, and business intelligence
 
 </td>
 <td width="50%">
+</div>
 
-### ⚙️ Backend Robustness
+## ⚙️ Backend Robustness
 - Scalable API design
 - Database optimization
 - Security best practices
@@ -135,6 +149,7 @@ Real-time analytics, data visualization, and business intelligence
 </tr>
 </table>
 
+---
 
 ## 📊 GitHub Stats
 
