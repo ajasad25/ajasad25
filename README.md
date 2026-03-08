@@ -75,11 +75,6 @@ When I'm not coding, I'm probably exploring new tech, mentoring fellow developer
 
 ## 💡 What I Build
 
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/google-maps-new.png" width="80"/>
-
 ### 💰 FinTech Apps
 Financial modeling, portfolio management, and enterprise payment systems
 </td>
