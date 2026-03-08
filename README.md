@@ -75,12 +75,14 @@ When I'm not coding, I'm probably exploring new tech, mentoring fellow developer
 
 ## 💡 What I Build
 
+<table>
+<tr>
+
 ### 💰 FinTech Apps
 Financial modeling, portfolio management, and enterprise payment systems
 </td>
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="80"/>
-
 
 ### 📊 Dashboards
 Real-time analytics, data visualization, and business intelligence
