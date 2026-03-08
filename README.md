@@ -123,7 +123,7 @@ Responsive web apps and cross-platform mobile applications
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td >
 
 ## 🎨 Frontend Excellence
 - Component-based architecture
@@ -134,8 +134,7 @@ Responsive web apps and cross-platform mobile applications
 - Responsive layouts
 
 </td>
-<td width="50%">
-</div>
+<td >
 
 ## ⚙️ Backend Robustness
 - Scalable API design
@@ -148,6 +147,7 @@ Responsive web apps and cross-platform mobile applications
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
