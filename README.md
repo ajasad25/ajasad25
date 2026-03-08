@@ -17,12 +17,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const asad = {
-    passion: "I ship useful software that solves real problems"
-};
-```
-
 I'm a **Computer Science graduate** who turns caffeine into code. Currently building full-stack features using React, Node.js, Next.js, and Nest.js. I'm obsessed with **clean architecture**, **great DX**, and **AI-powered automation**.
 
 When I'm not coding, I'm probably exploring new tech, mentoring fellow developers, or architecting my next side project.
